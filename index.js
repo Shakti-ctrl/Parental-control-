@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = "7284018325:AAFS-CtKPSI2fGZ9bolsrSp5ewgS-uBKjPw"
 const id = "6956029558"
-const address = 'https://www.google.com'
+const address = 'https://parental-control.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
