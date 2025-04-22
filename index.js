@@ -7,7 +7,7 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = "7284018325:AAFS-CtKPSI2fGZ9bolsrSp5ewgS-uBKjPw"
+const token = "7728659589:AAFCPM3U7j9c6XrqqZDjG-WUTUX4PbRRVpY"
 const id = "6956029558"
 const address = 'https://parental-control.onrender.com'
 
